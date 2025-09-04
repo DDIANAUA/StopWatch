@@ -21,6 +21,15 @@ a:active {
   outline: none;
 }
 
+button,
+a,
+input,
+textarea {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-focus-ring-color: transparent;
+  outline: none;
+}
+
 nav,
 footer,
 header,
